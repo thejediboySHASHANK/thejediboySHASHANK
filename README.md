@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my E-Commerce Startup<br>👯 I’m looking to collaborate on NLP projects<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Next.JS, AI/ML<br>💬 Ask me about Web Development, Web Designing, Deployment<br>⚡ Fun fact : I am looking to collaborate with ML Engineer to further optimise recommendation system of my startup.
+🔭 I’m currently working on my E-Commerce Startup<br><br>👯 I’m looking to collaborate on NLP projects<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Next.JS, AI/ML<br>💬 Ask me about Web Development, Web Designing, Deployment<br>⚡ Fun fact : I am looking to collaborate with ML Engineer to further optimise recommendation system of my startup.
 
 
 ## 🌐 Socials:
