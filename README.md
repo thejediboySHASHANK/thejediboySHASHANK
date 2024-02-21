@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Always on lookout for creating and finding exciting github repos<br><br>👯 Seasoned Full-Stack / Software developer with niche in Robotics & ML<br><br>🤝 I’m looking for help with Deep Learning<br><br>🌱 I’m currently learning Next.JS, AI/ML<br><br>💬 Ask me about Web Development, Web Designing, Deployment<br><br>⚡ Fun fact : I am looking to collaborate with ML Engineer to further optimise recommendation system of my startup.
+🔭 Always on lookout for creating and finding exciting github repos<br><br>👯 Seasoned Full-Stack / Software developer with niche in Robotics & ML<br><br>
 
 
 ## 🌐 Socials:
