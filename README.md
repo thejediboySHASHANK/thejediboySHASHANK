@@ -20,6 +20,15 @@
 - **[SingularityCMS](https://github.com/thejediboySHASHANK/SingularityCMS)** - A custom headless CMS designed to provide a flexible and powerful content management interface for developers.
 
 - **[TyplibAI](https://github.com/yourusername/intelligent-assistant-creator)** - An AI Search Engine Platform for searching Research Papers.
+  
+
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+
+
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
