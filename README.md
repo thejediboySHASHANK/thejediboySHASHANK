@@ -13,7 +13,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thejediboySHASHANK&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-## 🔭 I’m currently working on
+# 🔭 I’m currently working on
+
+- **[AcademiaForge LMS](https://github.com/yourusername/academiaforge)** - A learning management system designed to offer courses with features like comments, replies, reviews, embedded YouTube videos, and more.
+
+- **[SingularityCMS](https://github.com/yourusername/singularitycms)** - A custom headless CMS designed to provide a flexible and powerful content management interface for developers.
+
+- **[Intelligent Assistant Creator](https://github.com/yourusername/intelligent-assistant-creator)** - A No-Code/Low-Code web application for creating intelligent assistants using OpenAGI technology.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
