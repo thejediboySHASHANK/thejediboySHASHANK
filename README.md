@@ -15,11 +15,11 @@
 
 # 🔭 I’m currently working on
 
-- **[AcademiaForge LMS](https://github.com/yourusername/academiaforge)** - A learning management system designed to offer courses with features like comments, replies, reviews, embedded YouTube videos, and more.
+- **[AcademiaForge LMS](https://github.com/thejediboySHASHANK/AcademiaForge)** - A learning management system designed to offer courses with features like comments, replies, reviews, embedded YouTube videos, and more.
 
-- **[SingularityCMS](https://github.com/yourusername/singularitycms)** - A custom headless CMS designed to provide a flexible and powerful content management interface for developers.
+- **[SingularityCMS](https://github.com/thejediboySHASHANK/SingularityCMS)** - A custom headless CMS designed to provide a flexible and powerful content management interface for developers.
 
-- **[Intelligent Assistant Creator](https://github.com/yourusername/intelligent-assistant-creator)** - A No-Code/Low-Code web application for creating intelligent assistants using OpenAGI technology.
+- **[TyplibAI](https://github.com/yourusername/intelligent-assistant-creator)** - An AI Search Engine Platform for searching Research Papers.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
